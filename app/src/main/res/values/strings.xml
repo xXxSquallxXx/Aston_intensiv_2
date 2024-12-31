@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tamtamych</string>
+    <string name="sector_red">Красный</string>
+    <string name="sector_yellow">Желтый</string>
+    <string name="sector_cyan">Голубой</string>
+    <string name="sector_purple">Фиолетовый</string>
+    <string name="sector_orange">Оранжевый</string>
+    <string name="sector_green">Зеленый</string>
+    <string name="sector_blue">Синий</string>
+    <string name="unknown_color">Неизвестный цвет</string>
+    <string name="url">https://via.assets.so/game.png?id=1&amp;q=95&amp;w=360&amp;h=360&amp;fit=fill</string>
+    <string name="spin">Spin</string>
+    <string name="reset">Reset</string>
+</resources>
